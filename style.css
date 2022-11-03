@@ -1,0 +1,15 @@
+p{
+  font-family: 'Courier New';
+  text-align: center;
+  font-size: 50px";
+}
+
+div{
+  background: yellow;
+
+  border: 1px solid blue;
+  min-height: 200px
+}
+.para1{
+  color: blue;
+}
